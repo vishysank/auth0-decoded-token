@@ -1,0 +1,17 @@
+{
+  "name": "auth0-decoded-token",
+  "version": "0.0.1",
+  "description": "NPM Package to recieve and decode an auth0 access token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwam Sankar <vishwam.sankar@nordstrom.com>",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
+}
